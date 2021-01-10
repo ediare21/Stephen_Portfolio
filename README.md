@@ -1,6 +1,6 @@
 # Stephen_Portfolio
 **My data Science and __Machine__ Learning projects Portfolio**
-# Project 1: Data Science Salary Estimator
+# [Project 1: Data Science Salary Estimator](https://github.com/ediare21/Stephen_Portfolio)
 - Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job.
 - Scraped over 1000 job descriptions from glassdoor using python and selenium
 - Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark.
